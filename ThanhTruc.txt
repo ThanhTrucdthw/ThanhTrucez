@@ -1,0 +1,36 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("DrRay", "Default")
+
+local tab = DrRayLibrary.newTab("Thanh Trúc Farm chest", "ImageIdHere")
+local tab2 = DrRayLibrary.newTab("Blox Kid", "ImageIdHere")
+
+tab.newButton("The Hunt Brookhaven", "Thanh Trúc", function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ThanhTrucdthw/ThanhTrucfarmchest/main/ThanhTtucFarmchestv1.lua"))()
+
+end)
+
+tab3.newButton("16/3/2024 • +2 Scripts", "YAY", function(text)
+    print("https://discord.com/EMVK5NS9ys")
+end)
+
+tab3.newButton("16/3/2024 • +4 Scripts Fixed Bugs No Lag Much Smoother Added New tabs", "YAY", function()
+    print("the hunt HUB LOADED!")
+end)
+
+tab3.newButton("19/4/2024", "YAY", function()
+    print("YESSIR")
+end)
+
+tab4.newButton("8/4/2024", "https://discord.com/EMVK5NS9ys", function()
+    print("JN Boi")
+end)
+
+tab4.newButton("Scripts Chest", "https://discord.com/EMVK5NS9ys", function()
+    print("Envixity Boi")
+end)
+
+tab.newButton("9/5/2024 ", "Drink Some Water till then", function()
+
+  print("Created by hahnt.trs")
+
+end)
